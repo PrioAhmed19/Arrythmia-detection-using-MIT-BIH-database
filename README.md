@@ -85,9 +85,6 @@ The notebook includes sections for:
 -   Develop a user-friendly interface for arrhythmia detection.
 -   Expand the dataset to include more diverse arrhythmia types.
 
-## License
-
-[License information will be added here. This project is intended to be open-source, and a suitable license will be chosen.]
 
 ## Contributing
 
